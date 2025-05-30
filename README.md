@@ -21,9 +21,7 @@ Evaluation and Analysis
 
 DataExploration
 
-	DataExploration.py : 
- 
-Data Exploration before preprocessing
+	DataExploration.py : Data Exploration before preprocessing
 
 	DataExploration_AfterPreprocessing.py :
  
