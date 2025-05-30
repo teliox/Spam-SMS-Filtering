@@ -9,21 +9,36 @@ Troubleshooting problems caused by personal information leakage caused by person
 ***
 ## Process
 Data Exploration
+
 Data Preprocessing
+
 Data Analysis
+
 Modeling
+
 Evaluation and Analysis
 
+
 DataExploration
+
 	DataExploration.py : 
+ 
 Data Exploration before preprocessing
+
 	DataExploration_AfterPreprocessing.py :
+ 
  	Data Exploration (Distiribution) after preprocessing
+  
 	df_no_tfidf.csv :
+ 
 		preprocessed dataset
+  
 	spam.csv :
+ 
 		raw dataset
+  
 DataPreprocessing
+
 	Preprocessing.py
 	FeatureSelection.py
 	df_no_tfidf.csv :
