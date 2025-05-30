@@ -21,39 +21,44 @@ Evaluation and Analysis
 
 DataExploration
 
-	DataExploration.py : Data Exploration before preprocessing
+DataExploration.py : Data Exploration before preprocessing
 
-	DataExploration_AfterPreprocessing.py :
+DataExploration_AfterPreprocessing.py : Data Exploration (Distiribution) after preprocessing
  
- 	Data Exploration (Distiribution) after preprocessing
+df_no_tfidf.csv : preprocessed dataset
   
-	df_no_tfidf.csv :
- 
-		preprocessed dataset
-  
-	spam.csv :
- 
-		raw dataset
-  
+spam.csv : raw dataset
+
 DataPreprocessing
 
 	Preprocessing.py
+ 
 	FeatureSelection.py
-	df_no_tfidf.csv :
-		preprocessed data without TF-IDF features
-	df_with_tfidf.csv :
-		preprocessed data with TF-IDF
+
+	df_no_tfidf.csv : preprocessed data without TF-IDF features
+
+	df_with_tfidf.csv : preprocessed data with TF-IDF
+
 	spam.csv
+
 Modeling
-	Classification
-		decicionTree.py 
-		RandomForest.py
-		NaiveBayes_TF-IDF.py
-		df_no_tfidf.csv
-		df_with_tfidf.csv
-	kmeansClustering
-		SpamCluster.py
-		df_label_message_only.csv
+
+Classification
+
+	decicionTree.py 
+
+	RandomForest.py
+
+	NaiveBayes_TF-IDF.py
+
+	df_no_tfidf.csv
+
+	df_with_tfidf.csv
+	
+kmeansClustering
+	SpamCluster.py
+ 
+	df_label_message_only.csv
 Evaluation
 	Classification
 		RandomForest_SMOTE.py :
