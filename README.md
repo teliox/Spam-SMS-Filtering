@@ -86,34 +86,27 @@ Evaluation
 	df_label_message_only.csv : raw dataset
  
 ***
-### DataExploration.py
-<img width="384" alt="image" src="https://github.com/user-attachments/assets/7b3bbab6-78d4-412f-8957-5df83115ed16" />
+### EndToEnd.py
 
-Load Data, Labeling, Distribution
-<img width="388" alt="image" src="https://github.com/user-attachments/assets/322f8250-e524-4f2d-ac66-e0e0832e2d31" />
+<img width="870" alt="스크린샷 2025-06-02 오후 7 35 36" src="https://github.com/user-attachments/assets/922762ec-a119-439e-ac01-85566d217dd4" />
 
-Identify characters that are over the ASCII code range and output what characters are, count how many they are
+<img width="870" alt="스크린샷 2025-06-02 오후 7 36 02" src="https://github.com/user-attachments/assets/658df60d-43f5-4a0d-aaad-63b57a493885" />
 
-<img width="383" alt="image" src="https://github.com/user-attachments/assets/514e6359-73bc-462f-9834-c9d576f2df95" />
+<img width="870" alt="스크린샷 2025-06-02 오후 7 36 18" src="https://github.com/user-attachments/assets/1c18cd42-1685-4398-a3e4-a451a461e851" />
 
+You can Select Parameters
 
-<img width="383" alt="image" src="https://github.com/user-attachments/assets/e04b363e-64d2-4848-a917-cf5e4806b200" />
+Scaling method (Standard / Robust)
 
-Visualization & method referenced link
+TF-IDF Feature Dimension (150 / 300 / 450 / 600)
 
-### DataExploration_AfterPreprocessing.py
-<img width="384" alt="image" src="https://github.com/user-attachments/assets/1e8b7e7f-2855-4287-b397-9d9e69841154" />
+Every Model 's KFold K
 
-Code to visualize statistics for numerical and categorical data after preprocessing
+Tree's Max Depth
 
+Random Forest's n_estimators
 
-<img width="384" alt="image" src="https://github.com/user-attachments/assets/01a90e0b-5ddc-4095-b1fd-31902a0c2045" />
-
-Plot Histogram for numerical feature
-
-
-
-
+Using SMOTE or not
 
 
 
@@ -124,7 +117,11 @@ Plot Histogram for numerical feature
 ***
 ## Members
 202135752 김태량
+
 202135750 김지현
+
 202135814 이정균
+
 202135840 조우현
+
 202037006 권도윤
