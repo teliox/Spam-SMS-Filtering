@@ -4,7 +4,7 @@ DataScience Term Project
 ***
 
 ## Objective Setting
-Troubleshooting problems caused by personal information leakage caused by personal information leakage damage
+Classification Model that automatically filters Spam SMS due to data leakage
 
 ***
 
